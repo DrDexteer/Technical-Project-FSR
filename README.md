@@ -21,7 +21,7 @@ A momentum-based external wrench estimator is also included to compensate extern
 * `indi_geometric_control_template.slx`
   Simulink model of the INDI-based attitude controller with geometric outer loop.
 
-* `plot.m`
+* `plotting.m`
   MATLAB script used to generate and export the simulation plots.
 
 ## Project Features
